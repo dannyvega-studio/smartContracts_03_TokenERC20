@@ -1,0 +1,26 @@
+accounts:
+(0) 0x33a7094716f9e02d3e1d44cfdc962f9918b7e318                                                                                                                          
+(1) 0x586ff77abaabcf8fc300b2776ec5e2f6199e17b6 truffle develop                                                                                                                        
+(2) 0x99f2054775787fe7f19e51d38f183b117b42fa72                                                                                                                          
+(3) 0xca73b64503c0032c1615491c2c3c119602c991fb                                                                                                                          
+(4) 0x91bc042f9b087171d547eee02ebbafd5faf0a01e                                                                                                                          
+(5) 0x7d679276f9eaa90848f7b14a84c27a1da5a218bf                                                                                                                          
+(6) 0xfd8bbfe4fca9261596d281819aa0867545685637                                                                                                                          
+(7) 0x773c1fe284542b8d55b076db997522cd75ef1e8d                                                                                                                          
+(8) 0x66ff57d1f625117a4b10177b7b6ae971c309bdf7                                                                                                                          
+(9) 0x4a555a57d036d4304d992499146c8a688c51f6bd
+
+private keys:
+(0) d192409933bab7434ade4567c322c5a1394e55f123287799d07c242878a071f9                                                                                                    
+(1) 2e0b18d2c1099e34c9abc34f62badb0d022e2f2bc385c7af270e086b19307063                                                                                                    
+(2) 604be6d9cc8b696846158c19250e66ae0925f75eb22a8f473880596131ec8be6                                                                                                    
+(3) 1ff77a6f5e154caa6d8a201d0834f029c0e10783cc798cc1e40dc7a1ce8d3be2                                                                                                    
+(4) 4ff183607b527a7e1d28f9cf593ba194ddf2e7b8af0423f101318ba784f2d60f                                                                                                    
+(5) cc9c24b99a5ad01c83fcc7a264c1a26f6c1b04003ded6ced4c148ee76f1f3cce                                                                                                    
+(6) e38e2decb626c9b14392a1f3919d9b08b860c2877aee98c6c929c5559c00472b                                                                                                    
+(7) e52f7330d1c516bdf3f6e6776c94c8a8f75850ec6b1b91c82f44f7b3813fcb9e                                                                                                    
+(8) 943531640c2c5675770d919aee303726310fee50c41907864051fa307a746089
+(9) 232e008a51f50af0710f5257c53b4b8785a931a193457994e9d3e05515928144
+
+mnemonic:
+section stadium used comic accuse erupt term wash plate patrol radar pet
